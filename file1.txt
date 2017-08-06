@@ -1,6 +1,6 @@
   <div class="footer-top">
         <div class="block block-nodeblock block-nodeblock-31934 block-nodeblock-31934 ">
-            <div class="content">
+            <div class="content social">
       <div id="node-31934" class="node node-elc-nodeblock node-unpublished no-sidebars clearfix" data-node-nid="31934" role="article" trackname="Social Footer">
         <div class="content">
                   </div>
