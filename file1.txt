@@ -1,19 +1,9 @@
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam tincidunt mauris eu risus.
-Vestibulum auctor dapibus neque.
-My line of javascript code was modified
-Nunc dignissim risus id metus.
-Cras ornare tristique elit.
-line added
-Vivamus vestibulum nulla nec ante.
-Praesent placerat risus quis eros.
-Fusce pellentesque suscipit nibh.
-Integer vitae libero ac risus egestas placerat.
-Vestibulum commodo felis quis tortor.
-Ut aliquam line modified sollicitudin leo.
-Cras iaculis ultricies nulla.
-Donec quis dui at dolor tempor interdum.
-Vivamus molestie gravida turpis.
-Fusce lobortis lorem at ipsum semper sagittis.
-Integer malesuada commodo nulla.
-new line
+  <div class="footer-top">
+        <div class="block block-nodeblock block-nodeblock-31934 block-nodeblock-31934 ">
+            <div class="content">
+      <div id="node-31934" class="node node-elc-nodeblock node-unpublished no-sidebars clearfix" data-node-nid="31934" role="article" trackname="Social Footer">
+        <div class="content">
+                  </div>
+      </div>
+    </div>
+  </div>
